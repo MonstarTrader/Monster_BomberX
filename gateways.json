@@ -1,0 +1,16 @@
+[
+  {
+    "name": "placeholder_post",
+    "method": "POST",
+    "url": "https://api.example.com/sendOtp",
+    "headers": {"Content-Type": "application/json"},
+    "body": "{\"msisdn\":\"{number}\",\"msg\":\"{msg}\"}"
+  },
+  {
+    "name": "placeholder_get",
+    "method": "GET",
+    "url": "https://promo.example.com/api/send?to={number}&text={msg}",
+    "headers": {},
+    "body": ""
+  }
+]
