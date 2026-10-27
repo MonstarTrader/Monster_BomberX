@@ -1,0 +1,3 @@
+# one BD number per line — 01XXXXXXXXX or +8801XXXXXXXXX
+# comments start with #
+01712345678
